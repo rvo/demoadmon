@@ -1,0 +1,32 @@
+From fc8fd59fefa865f7a21c8e5ca04588799ada9f8e Mon Sep 17 00:00:00 2001
+From: Rey David Cuevas <rack_159@live.com.mx>
+Date: Tue, 29 Oct 2013 20:44:11 -0600
+Subject: [PATCH] agregado cosas
+
+---
+ 1.txt | 11 +----------
+ 1 file changed, 1 insertion(+), 10 deletions(-)
+
+diff --git a/1.txt b/1.txt
+index 1cb1cfa..6e24f85 100644
+--- a/1.txt
++++ b/1.txt
+@@ -2,13 +2,4 @@ Agregado lineas de texto
+ Prueba de texto en la linea 1 por Cris
+ Modificado por Lyzer
+ Prueba en la linea 2
+-
+-
+-
+-
+-
+-<<<<<<< HEAD
+-=======
+-Modificado por Lyzer
+-Lero lero a mi me quiere git y a tu no :P
+->>>>>>> ab8c2ecd7e164d9de823219930653cd2d7d49056
++Lero lero a mi me quiere git y a tu no :P
+\ No newline at end of file
+-- 
+1.7.11.1
+
