@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Prueba de insercion
 prueba de modificación
 Modificado por Cris
+=======
+ddddPrueba de insercion
+prueba de modificación
+>>>>>>> d263f4e9d1cc3b6f6d4f7efd7b291cab936697fd
 =======
 Prueba de insercion
 prueba de modificación
