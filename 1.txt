@@ -7,3 +7,8 @@ Prueba en la linea 2
 
 
 
+<<<<<<< HEAD
+=======
+Modificado por Lyzer
+Lero lero a mi me quiere git y a tu no :P
+>>>>>>> ab8c2ecd7e164d9de823219930653cd2d7d49056
