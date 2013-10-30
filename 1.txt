@@ -20,5 +20,9 @@ que onda con esto
 sirve o no sirve?
 >>>>>>> 512848dc40c9e4dac25941ec9c5e621c26e2e978
 wtf! ¬¬'!
+<<<<<<< HEAD
 
 que onda con esto
+=======
+Q.Q
+>>>>>>> 257ae0a7f42690010aaed30672a2def503ef1c52
