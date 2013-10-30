@@ -1,1 +1,3 @@
-﻿
+﻿Inicio de cadena de texto
+
+Modificado por Lyzer
