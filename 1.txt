@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-﻿Modificado por Cris
-=======
-﻿Inicio de cadena de texto
-
-Modificado por Lyzer
->>>>>>> 5cb0507a7b1ae205633aacaecff8013c7f1b19ae
